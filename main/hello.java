@@ -1,6 +1,8 @@
 package pack1;
-public class hello{
-    int a=12,b=45;
+
+public class hello {
+    int a = 12, b = 45;
+
     public void add(){
         System.out.println("HA kuldeep!");
         return a+b;
